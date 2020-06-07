@@ -1,5 +1,5 @@
 # Port Scanner
-(https://github.com/hackers-brain/port_scanner/blob/master/port_scanner.png)
+![Port Scanner using Python3](https://github.com/hackers-brain/port_scanner/blob/master/port_scanner.png)
 Port Scanner using Python3
 ## Version
 **Port Scanner v1.0**
