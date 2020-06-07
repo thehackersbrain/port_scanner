@@ -21,7 +21,7 @@ git clone https://github.com/hackers-brain/port_scanner.git
 ```
 change directory
 ```
-cd portscanner
+cd port_scanner
 ```
 run main script
 ```
