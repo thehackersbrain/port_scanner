@@ -23,6 +23,10 @@ change directory
 ```
 cd port_scanner
 ```
+install requirements
+```
+pip3 install -r requirements.txt
+```
 run main script
 ```
 python3 main.py <target> <starting_port> <ending_port>
